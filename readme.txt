@@ -1,1 +1,1 @@
-Back-end for my simple user management system. Just run `npm install` and `npm start` to start the server.
+Back-end for my simple user management system. Just run `npm install` and `npm start` to start the server. For the front-end part see : https://github.com/FromTellus/simple-user-management-system
